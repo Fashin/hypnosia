@@ -1,0 +1,12 @@
+{
+    "name": "cbeauvoi/hypnosia",
+    "authors": [
+        {
+            "name": "cbeauvoi",
+            "email": "cyprian@bluesquare.io"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.0"
+    }
+}
